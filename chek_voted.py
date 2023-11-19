@@ -7,7 +7,6 @@ def voted():
             voted[name] = True
             print("Пусть голосует")
 
-
     def test():
         check_voter('Aleksandr')
         check_voter('Vlad')
